@@ -1,0 +1,17 @@
+# Ignore generated report files (local, user-specific data)
+reports/*.json
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# OneDrive / OS files
+OneDrive/
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
